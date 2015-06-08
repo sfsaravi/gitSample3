@@ -5,4 +5,5 @@ package p1;
  */
 public class A1 {
     int a=5;
+    int x;
 }
